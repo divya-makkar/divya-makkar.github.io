@@ -1,3 +1,1 @@
-# ideal-engine
-
-Divya Makkar's personal website
+Divya Makkar's personal website. https://divya-makkar.github.io/
